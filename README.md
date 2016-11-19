@@ -9,13 +9,13 @@ Contains index.html file that can be directly opened using any modern browser. G
 
 ### Tested this model for values
 
-cities : 15
-population : 20
-elitism : true | if enabled, no mutation for best path
-mutation rate : 0.05
-mutation type : swap
-crossover window size : 2 | takes 2 parent from best available paths so far, produces 2 children, replaces 2 worst paths
-fitness : 1/distance between cities
++ cities : 15
++ population : 20
++ elitism : true | if enabled, no mutation for best path
++ mutation rate : 0.05
++ mutation type : swap
++ crossover window size : 2 | takes 2 parent from best available paths so far, produces 2 children, replaces 2 worst paths
++ fitness : 1/distance between cities
 
 
 #### References
